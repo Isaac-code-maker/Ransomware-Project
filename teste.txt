@@ -1,0 +1,1 @@
+Arquivo de texto legível, para teste do algoritmo de criptografia
